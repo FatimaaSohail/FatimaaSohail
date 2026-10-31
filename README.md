@@ -21,7 +21,7 @@ Exploring data, understanding models, and building practical applications.
   <img src="https://img.shields.io/badge/Explore_Projects-21262D?style=for-the-badge&logo=github&logoColor=79C0FF" alt="Explore projects" />
 </a>
 
-<a href="https://fatimasohailcheema19.github.io/"><img src="https://img.shields.io/badge/Portfolio-278D88?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
+<a href="https://fatimaasohail.github.io/"><img src="https://img.shields.io/badge/Portfolio-278D88?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
 <a href="https://www.linkedin.com/in/fatima-sohail-206089389/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="https://www.kaggle.com/fatimasohail2005"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Explore my Kaggle profile" /></a>
 
@@ -214,7 +214,7 @@ If you're working on something related, I'd be happy to connect.
   <img src="https://img.shields.io/badge/My_Projects-7AA2F7?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Browse my projects" />
 </a>
 
-<a href="https://fatimasohailcheema19.github.io/"><img src="https://img.shields.io/badge/Portfolio-278D88?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
+<a href="https://fatimaasohail.github.io/"><img src="https://img.shields.io/badge/Portfolio-278D88?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
 <a href="https://www.linkedin.com/in/fatima-sohail-206089389/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="https://www.kaggle.com/fatimasohail2005"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Explore my Kaggle profile" /></a>
 
